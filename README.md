@@ -1,4 +1,4 @@
-![image](https://github.com/MirrorCai/mirror/raw/master/blockly/img/chaincode_designer_demo.png)
+![image]((https://raw.githubusercontent.com/MirrorCai/mirror/master/blockly/img/chaincode_designer_demo.png)
 
 # ChaincodeDesigner
 
