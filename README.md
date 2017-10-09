@@ -1,3 +1,5 @@
+![image](https://github.com/MirrorCai/mirror/raw/master/blockly/img/chaincode_designer_demo.png)
+
 # ChaincodeDesigner
 
 ***September 12, 2017***
