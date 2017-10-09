@@ -2,7 +2,7 @@
 
 ***September 12, 2017***
 
-*** HIP Identifier: Chaincode Designer v0.6.2***
+***HIP Identifier: Chaincode Designer v0.6.2***
 
 # Sponsors: 
 
